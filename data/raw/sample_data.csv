@@ -1,0 +1,16 @@
+Country,Year,Life_Expectancy,Region
+United States,2010,78.5,North America
+United States,2011,78.7,North America
+United States,2012,78.9,North America
+Japan,2010,83.1,Asia
+Japan,2011,83.3,Asia
+Japan,2012,83.5,Asia
+Germany,2010,80.5,Europe
+Germany,2011,80.7,Europe
+Germany,2012,80.9,Europe
+Brazil,2010,73.5,South America
+Brazil,2011,73.8,South America
+Brazil,2012,74.1,South America
+India,2010,66.5,Asia
+India,2011,66.8,Asia
+India,2012,67.1,Asia

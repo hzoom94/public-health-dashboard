@@ -1,0 +1,19 @@
+﻿COUNTRY,ISO3,GHO (CODE),GHO (DISPLAY),YEAR,Numeric,Low,High
+Afghanistan,AFG,WHOSIS_000001,Life expectancy at birth (years),2000,55.9,53.2,58.6
+Afghanistan,AFG,WHOSIS_000001,Life expectancy at birth (years),2010,61.5,58.8,64.2
+Afghanistan,AFG,WHOSIS_000001,Life expectancy at birth (years),2019,64.8,62.1,67.5
+Japan,JPN,WHOSIS_000001,Life expectancy at birth (years),2000,81.1,80.3,81.9
+Japan,JPN,WHOSIS_000001,Life expectancy at birth (years),2010,83.0,82.2,83.8
+Japan,JPN,WHOSIS_000001,Life expectancy at birth (years),2019,84.6,83.8,85.4
+United States of America,USA,WHOSIS_000001,Life expectancy at birth (years),2000,76.8,76.1,77.5
+United States of America,USA,WHOSIS_000001,Life expectancy at birth (years),2010,78.7,77.9,79.5
+United States of America,USA,WHOSIS_000001,Life expectancy at birth (years),2019,78.9,78.1,79.7
+Germany,DEU,WHOSIS_000001,Life expectancy at birth (years),2000,78.0,77.2,78.8
+Germany,DEU,WHOSIS_000001,Life expectancy at birth (years),2010,80.3,79.5,81.1
+Germany,DEU,WHOSIS_000001,Life expectancy at birth (years),2019,81.2,80.4,82.0
+Brazil,BRA,WHOSIS_000001,Life expectancy at birth (years),2000,70.4,68.9,71.9
+Brazil,BRA,WHOSIS_000001,Life expectancy at birth (years),2010,74.0,72.5,75.5
+Brazil,BRA,WHOSIS_000001,Life expectancy at birth (years),2019,76.6,75.1,78.1
+India,IND,WHOSIS_000001,Life expectancy at birth (years),2000,62.3,60.5,64.1
+India,IND,WHOSIS_000001,Life expectancy at birth (years),2010,67.5,65.7,69.3
+India,IND,WHOSIS_000001,Life expectancy at birth (years),2019,70.8,69.0,72.6
